@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <manufacturer><![CDATA[BALMAIN]]></manufacturer>
+    <name_of_store><![CDATA[LAIKS]]></name_of_store>
+    <sku><![CDATA[777327.3618.33.16]]></sku>
+    <name><![CDATA[Balmain, 327.3618.33.16777, Maestria Mini Round, Rokas pulkstenis]]></name>
+    <url_to_product><![CDATA[http://laikswatches.lv/lv/product/balmain-327-3618-33-16-maestria-mini-round-rokas-pulkstenis/]]></url_to_product>
+    <categories><![CDATA[Default Category/Women's fashion/Accessories & Bags/Watches]]></categories>
+    <short_description><![CDATA[Ciparnīca rotā raksturīgais arabesku raksts, ar 12 dimantiem.]]></short_description>
+    <color>Black</color>
+    <price>699.00</price>
+    <special_price>599.00</special_price>
+    <special_price_from_date>05.15.20</special_price_from_date>
+    <special_price_to_date>08.30.20</special_price_to_date>
+    <base_image><![CDATA[http://laikswatches.lv/media/images/items/0028/items-4641-5776.jpg]]></base_image>
+    <small_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th3/items-4641-5776.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th2/items-4641-5776.jpg]]></thumbnail_image>
+  </row>
+  <row>
+    <manufacturer><![CDATA[CANDINO]]></manufacturer>
+    <name_of_store><![CDATA[LAIKS]]></name_of_store>
+    <sku><![CDATA[666C4567/1]]></sku>
+    <name><![CDATA[Candino, C4567666/1, Rokas pulkstenis]]></name>
+    <url_to_product><![CDATA[http://laikswatches.lv/lv/product/candino-c4567-1-rokas-pulkstenis/]]></url_to_product>
+    <categories><![CDATA[Default Category/Women's fashion/Accessories & Bags/Watches]]></categories>
+    <short_description><![CDATA[Candino, C4567/1, Rokas pulkstenis]]></short_description>
+    <color>Black</color>
+    <price>189.99</price>
+    <special_price>149.00</special_price>
+    <special_price_from_date>05.15.20</special_price_from_date>
+    <special_price_to_date>08.30.20</special_price_to_date>
+    <base_image><![CDATA[http://laikswatches.lv/media/images/items/0028/items-5335-6648.jpg]]></base_image>
+    <small_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th3/items-5335-6648.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th2/items-5335-6648.jpg]]></thumbnail_image>
+  </row>
+</root>
