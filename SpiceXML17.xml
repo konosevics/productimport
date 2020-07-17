@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<manufacturer><![CDATA[Kambukka]]></manufacturer>
+		<name_of_store><![CDATA[RITO]]></name_of_store>
+		<sku><![CDATA[BE0111-01005]]></sku>
+		<name><![CDATA[ETNA TERMOKRŪZE 500ML, TUMŠI ZILA, N/T]]></name>
+		<url_to_product><![CDATA[https://rito.lv/lv/veikals/termosi-termokruzes/termokruzes/etna-termokruze-500ml-tumsi-zila-n-t]]></url_to_product>
+		<categories><![CDATA[Default Category/Interior &amp; decors/Dining/Water bottles &amp; Mugs]]></categories>
+		<price><![CDATA[29.99]]></price>
+		<base_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/003/large/ca3c747935f0054287567f25b1dcbaa5.png]]></base_image>
+		<small_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/003/large/ca3c747935f0054287567f25b1dcbaa5.png]]></small_image>
+		<thumbnail_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/003/large/ca3c747935f0054287567f25b1dcbaa5.png]]></thumbnail_image>
+	</row>
+	<row>
+		<manufacturer><![CDATA[Kambukka]]></manufacturer>
+		<name_of_store><![CDATA[RITO]]></name_of_store>
+		<sku><![CDATA[BE0111-01006]]></sku>
+		<name><![CDATA[ETNA TERMORKŪZE 500ML, ĶIRŠU KRĀSĀ, N/T]]></name>
+		<url_to_product><![CDATA[https://rito.lv/lv/veikals/termosi-termokruzes/termokruzes/etna-termorkuze-500ml-kirsu-krasa-n-t]]></url_to_product>
+		<categories><![CDATA[Default Category/Interior &amp; decors/Dining/Water bottles &amp; Mugs]]></categories>
+		<price><![CDATA[29.99]]></price>
+		<base_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/075/999/large/0b4ee550884e455cbd5ba69700a0ba6d.png]]></base_image>
+		<small_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/075/999/large/0b4ee550884e455cbd5ba69700a0ba6d.png]]></small_image>
+		<thumbnail_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/075/999/large/0b4ee550884e455cbd5ba69700a0ba6d.png]]></thumbnail_image>
+	</row>
+</root>
