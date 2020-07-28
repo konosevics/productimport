@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<manufacturer><![CDATA[Kambukka]]></manufacturer>
+		<name_of_store><![CDATA[RITO]]></name_of_store>
+		<sku><![CDATA[BE0111-01002]]></sku>
+		<name><![CDATA[ETNA TERMOKRŪZE 300ML, LATTE KRĀSĀ, N/T]]></name>
+		<url_to_product><![CDATA[https://rito.lv/lv/veikals/termosi-termokruzes/termokruzes/etna-termokruze-300ml-latte-krasa-n-t]]></url_to_product>
+		<categories><![CDATA[Default Category/Interior & decors/Dining/Water bottles & Mugs]]></categories>
+		<price><![CDATA[27.99]]></price>
+		<base_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/017/large/20c3fd97ff1cfe172687dc8e16662c5d.png]]></base_image>
+		<small_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/017/large/20c3fd97ff1cfe172687dc8e16662c5d.png]]></small_image>
+		<thumbnail_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/017/large/20c3fd97ff1cfe172687dc8e16662c5d.png]]></thumbnail_image>
+	</row>
+	<row>
+		<manufacturer><![CDATA[Kambukka]]></manufacturer>
+		<name_of_store><![CDATA[RITO]]></name_of_store>
+		<sku><![CDATA[BE0111-01003]]></sku>
+		<name><![CDATA[ETNA TERMOKRŪZE 300ML, PELĒKZILA, N/T]]></name>
+		<url_to_product><![CDATA[https://rito.lv/lv/veikals/termosi-termokruzes/termokruzes/etna-termokruze-300ml-pelekzila-n-t]]></url_to_product>
+		<categories><![CDATA[Default Category/Interior & decors/Dining/Water bottles & Mugs]]></categories>
+		<price><![CDATA[27.99]]></price>
+		<base_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/011/large/c7c8f53048a7d134eb2e62f6bb5702fb.png]]></base_image>
+		<small_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/011/large/c7c8f53048a7d134eb2e62f6bb5702fb.png]]></small_image>
+		<thumbnail_image><![CDATA[https://rito.lv/uploads/global/product_images/image/000/076/011/large/c7c8f53048a7d134eb2e62f6bb5702fb.png]]></thumbnail_image>
+	</row>
+</root>
