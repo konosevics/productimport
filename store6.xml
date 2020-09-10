@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <manufacturer><![CDATA[Lloyd]]></manufacturer>
+        <name_of_store><![CDATA[Lloyd]]></name_of_store>
+        <sku><![CDATA[test6]]></sku>
+        <name><![CDATA[test6]]></name>
+        <url_to_product><![CDATA[https://lloyd.lv/product/lloyd-v-rie-u-das-jaka-sven/]]></url_to_product>
+        <categories><![CDATA[Default Category/Hobies & gifts]]></categories>
+        <short_description/>
+        <color>Red</color>
+        <price>520</price>
+        <special_price>364</special_price>
+        <base_image><![CDATA[https://lloyd.lv/wp-content/uploads/2020/04/07-112-1011-3-2.jpg]]></base_image>
+        <small_image><![CDATA[https://lloyd.lv/wp-content/uploads/2020/04/07-112-1011-3-2.jpg]]></small_image>
+        <thumbnail_image><![CDATA[https://lloyd.lv/wp-content/uploads/2020/04/07-112-1011-3-2.jpg]]></thumbnail_image>
+    </row>
+</root>
