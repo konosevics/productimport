@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <root>
+      <row>
+        <manufacturer><![CDATA[Salvatore Plata]]></manufacturer>
+        <name_of_store><![CDATA[GRENARDI]]></name_of_store>
+        <sku><![CDATA[W55349152]]></sku>
+        <name><![CDATA[Salvatore Plata Kaklarota]]></name>
+        <url_to_product><![CDATA[https://grenardi.lv/index.php?route=product/product&amp;amp;product_id=24256]]></url_to_product>
+        <categories><![CDATA[Default Category/Women's fashion/Jewellery/Necklaces]]></categories>
+        <short_description><![CDATA[Izmērs: 42-45; Materiāla krāsa: Balts; Akmens: Spinels; Materiāls: Sudrabs]]></short_description>
+        <color><![CDATA[Silver]]></color>
+        <price>66.00</price>
+        <base_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></base_image>
+        <small_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></small_image>
+        <thumbnail_image><![CDATA[https://grenardi.lv/index.php?route=product/product/getImage&width=484&height=580&product_id=24256/image.jpg]]></thumbnail_image>
+      </row>
+    </root>
